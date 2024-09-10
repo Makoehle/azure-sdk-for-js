@@ -80,18 +80,18 @@ npx cross-env ENDPOINT="<endpoint>" AZURE_API_KEY="<azure api key>" node dist/au
 
 Take a look at our [API Documentation][apiref] for more information about the APIs that are available in the clients.
 
-[audiotranscription]: https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/typescript/src/audioTranscription.ts
-[audiotranslation]: https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/typescript/src/audioTranslation.ts
-[bringyourowndata]: https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/typescript/src/bringYourOwnData.ts
-[chatcompletions]: https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/typescript/src/chatCompletions.ts
-[completions]: https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/typescript/src/completions.ts
-[functions]: https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/typescript/src/functions.ts
-[getembeddings]: https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/typescript/src/getEmbeddings.ts
-[getimages]: https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/typescript/src/getImages.ts
-[streamchatcompletions]: https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/typescript/src/streamChatCompletions.ts
-[streamchatcompletionswithcontentfilter]: https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/typescript/src/streamChatCompletionsWithContentFilter.ts
-[streamcompletions]: https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/typescript/src/streamCompletions.ts
-[openai]: https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/typescript/src/openAi.ts
+[audiotranscription]: https://github.com/Azure/azure-sdk-for-js/tree/hotfix/openai-deprecations/sdk/openai/openai/samples/v1-beta/typescript/src/audioTranscription.ts
+[audiotranslation]: https://github.com/Azure/azure-sdk-for-js/tree/hotfix/openai-deprecations/sdk/openai/openai/samples/v1-beta/typescript/src/audioTranslation.ts
+[bringyourowndata]: https://github.com/Azure/azure-sdk-for-js/tree/hotfix/openai-deprecations/sdk/openai/openai/samples/v1-beta/typescript/src/bringYourOwnData.ts
+[chatcompletions]: https://github.com/Azure/azure-sdk-for-js/tree/hotfix/openai-deprecations/sdk/openai/openai/samples/v1-beta/typescript/src/chatCompletions.ts
+[completions]: https://github.com/Azure/azure-sdk-for-js/tree/hotfix/openai-deprecations/sdk/openai/openai/samples/v1-beta/typescript/src/completions.ts
+[functions]: https://github.com/Azure/azure-sdk-for-js/tree/hotfix/openai-deprecations/sdk/openai/openai/samples/v1-beta/typescript/src/functions.ts
+[getembeddings]: https://github.com/Azure/azure-sdk-for-js/tree/hotfix/openai-deprecations/sdk/openai/openai/samples/v1-beta/typescript/src/getEmbeddings.ts
+[getimages]: https://github.com/Azure/azure-sdk-for-js/tree/hotfix/openai-deprecations/sdk/openai/openai/samples/v1-beta/typescript/src/getImages.ts
+[streamchatcompletions]: https://github.com/Azure/azure-sdk-for-js/tree/hotfix/openai-deprecations/sdk/openai/openai/samples/v1-beta/typescript/src/streamChatCompletions.ts
+[streamchatcompletionswithcontentfilter]: https://github.com/Azure/azure-sdk-for-js/tree/hotfix/openai-deprecations/sdk/openai/openai/samples/v1-beta/typescript/src/streamChatCompletionsWithContentFilter.ts
+[streamcompletions]: https://github.com/Azure/azure-sdk-for-js/tree/hotfix/openai-deprecations/sdk/openai/openai/samples/v1-beta/typescript/src/streamCompletions.ts
+[openai]: https://github.com/Azure/azure-sdk-for-js/tree/hotfix/openai-deprecations/sdk/openai/openai/samples/v1-beta/typescript/src/openAi.ts
 [apiref]: https://docs.microsoft.com/javascript/api/@azure/openai
 [freesub]: https://azure.microsoft.com/free/
 [createinstance_azurecognitiveservicesinstance]: https://learn.microsoft.com/azure/cognitive-services/openai/how-to/create-resource
