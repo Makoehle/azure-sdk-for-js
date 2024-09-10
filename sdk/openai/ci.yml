@@ -28,5 +28,3 @@ extends:
         safeName: azureopenai
       - name: azure-openai-assistants
         safeName: azureopenaiassistants
-      - name: azure-rest-openai
-        safeName: azurerestopenai
