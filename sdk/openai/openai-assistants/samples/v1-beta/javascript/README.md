@@ -65,4 +65,4 @@ Take a look at our [API Documentation][apiref] for more information about the AP
 [apiref]: https://docs.microsoft.com/javascript/api/@azure/openai
 [freesub]: https://azure.microsoft.com/free/
 [createinstance_azurecognitiveservicesinstance]: https://learn.microsoft.com/azure/cognitive-services/openai/how-to/create-resource
-[package]: https://github.com/Azure/azure-sdk-for-js/tree/main/sdk/openai/openai-assistants/README.md
+[package]: https://github.com/Azure/azure-sdk-for-js/tree/hotfix/openai-deprecations/sdk/openai/openai-assistants/README.md
